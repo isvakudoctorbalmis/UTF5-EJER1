@@ -113,5 +113,8 @@
     <Resource Include="Imagenes\hotdog.jpg" />
     <Resource Include="Imagenes\tacos.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fruit_food_apple.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
